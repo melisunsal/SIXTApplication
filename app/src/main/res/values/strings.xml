@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SIXTApplication</string>
+    <string name="tab_text_1">List View</string>
+    <string name="tab_text_2">Map View</string>
+    <string name="name">Name :</string>
+    <string name="model_name">Model Name :</string>
+    <string name="model_id">Model Id :</string>
+    <string name="model_make">Make :</string>
+    <string name="series">Series :</string>
+    <string name="colour">Color :</string>
+    <string name="fuel_type">Fuel Type :</string>
+    <string name="fuel_level">Fuel Level :</string>
+    <string name="transmission">Transmission :</string>
+    <string name="license_plate">License Plate :</string>
+    <string name="group">Group :</string>
+    <string name="cleanliness">Inner Cleanliness :</string>
+</resources>
